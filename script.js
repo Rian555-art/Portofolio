@@ -1,7 +1,7 @@
 
 const PROJECTS = [
   {
-    title: "bacayuk",
+    title: "bacayuk!",
     category: "Web Development",
     description: "Baca Yuk! merupakan platform pembelajaran membaca interaktif berbasis web untuk anak Sekolah Dasar. Dalam proyek ini, saya berperan sebagai UI/UX Designer dan Team Coordinator, bertanggung jawab merancang tampilan dan pengalaman pengguna serta mengoordinasikan kerja sama tim selama proses pengembangan.",
     image: "assets/images/Screenshot 2026-11-24 195907.png",
@@ -14,8 +14,7 @@ const PROJECTS = [
     description: "3D karakter morty",
     image: "assets/images/12_Snapshot1.jpg",
     alt: "Placeholder preview for a 3D multimedia project",
-    url: "https://drive.google.com/file/d/16_JJzqMcSC-JX66DufoKG10X7PVhTg1T/view?usp=drive_link",
-    placeholder: true,
+    url: "https://drive.google.com/drive/folders/1USJNCOYt8OpphVhVbP4Mr2-znMkNDzrD?usp=sharing",
   },
   {
     title: "Project Title 03",
