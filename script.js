@@ -7,6 +7,7 @@ const PROJECTS = [
     image: "assets/images/Screenshot 2026-11-24 195907.png",
     alt: "Placeholder preview for a web development project",
     url: "https://bacayuk.netlify.app",
+    placeholder: true,
   },
   {
     title: "TUGAS 3D",
@@ -15,6 +16,7 @@ const PROJECTS = [
     image: "assets/images/12_Snapshot1.jpg",
     alt: "Placeholder preview for a 3D multimedia project",
     url: "https://drive.google.com/drive/folders/1USJNCOYt8OpphVhVbP4Mr2-znMkNDzrD?usp=sharing",
+    placeholder: true,
   },
   {
     title: "Project Title 03",
