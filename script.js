@@ -21,10 +21,10 @@ const PROJECTS = [
   {
     title: "Project Title 01",
     category: "Web Development",
-    description: "Placeholder. Replace this text with a short description of the project, the problem it solves, and your role.",
+    description: "Baca Yuk! merupakan platform pembelajaran membaca interaktif berbasis web untuk anak Sekolah Dasar. Dalam proyek ini, saya berperan sebagai UI/UX Designer dan Team Coordinator, bertanggung jawab merancang tampilan dan pengalaman pengguna serta mengoordinasikan kerja sama tim selama proses pengembangan.",
     image: "assets/images/project-1.svg",
     alt: "Placeholder preview for a web development project",
-    url: "",
+    url: "https://bacayuk.netlify.app",
     placeholder: true,
   },
   {
