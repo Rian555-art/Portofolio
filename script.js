@@ -12,7 +12,7 @@ const PROJECTS = [
     title: "TUGAS 3D",
     category: "3D Multimedia",
     description: "3D karakter morty",
-    image: "assets/images/project-2.svg",
+    image: "assets/images/12_Snapshot1.jpg",
     alt: "Placeholder preview for a 3D multimedia project",
     url: "https://drive.google.com/file/d/16_JJzqMcSC-JX66DufoKG10X7PVhTg1T/view?usp=drive_link",
     placeholder: true,
