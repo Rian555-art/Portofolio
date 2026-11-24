@@ -1,22 +1,4 @@
-/* ==========================================================================
-   Rian Ady Saputra — Portfolio
-   Modules: PROJECTS data · nav · active link · reveal · projects · effects
-   ========================================================================== */
 
-/* --------------------------------------------------------------------------
-   PROJECTS — edit this list to add or replace projects.
-
-   Fields:
-     title        Project name
-     category     Used for the filter buttons (new categories are added automatically)
-     description  1–2 short sentences
-     image        Path to the preview image (recommended ratio 16:10, e.g. 1280x800)
-     alt          Short description of the image (accessibility)
-     url          Link to the project (live demo, repo, case study). Leave "" to show a disabled button
-     placeholder  true = shows a "Placeholder" badge. Remove it (or set false) for real projects
-
-   Everything below the PROJECTS list normally does not need to change.
-   -------------------------------------------------------------------------- */
 const PROJECTS = [
   {
     title: "bacayuk",
@@ -25,7 +7,6 @@ const PROJECTS = [
     image: "assets/images/Screenshot 2026-11-24 195907.png",
     alt: "Placeholder preview for a web development project",
     url: "https://bacayuk.netlify.app",
-    placeholder: true,
   },
   {
     title: "Project Title 02",
