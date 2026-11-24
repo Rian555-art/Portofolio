@@ -19,7 +19,7 @@
    -------------------------------------------------------------------------- */
 const PROJECTS = [
   {
-    title: "bacayuk!",
+    title: "bacayuk",
     category: "Web Development",
     description: "Baca Yuk! merupakan platform pembelajaran membaca interaktif berbasis web untuk anak Sekolah Dasar. Dalam proyek ini, saya berperan sebagai UI/UX Designer dan Team Coordinator, bertanggung jawab merancang tampilan dan pengalaman pengguna serta mengoordinasikan kerja sama tim selama proses pengembangan.",
     image: "assets/images/Screenshot 2026-11-24 195907.png",
