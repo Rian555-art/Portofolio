@@ -9,12 +9,12 @@ const PROJECTS = [
     url: "https://bacayuk.netlify.app",
   },
   {
-    title: "Project Title 02",
+    title: "TUGAS 3D",
     category: "3D Multimedia",
-    description: "Placeholder. Replace this text with a short description of your 3D or multimedia work and the tools you used.",
+    description: "3D karakter morty",
     image: "assets/images/project-2.svg",
     alt: "Placeholder preview for a 3D multimedia project",
-    url: "",
+    url: "https://drive.google.com/file/d/16_JJzqMcSC-JX66DufoKG10X7PVhTg1T/view?usp=drive_link",
     placeholder: true,
   },
   {
